@@ -1,2 +1,3 @@
 # google-search-clone
-Google search clone built with Django
+Google search clone built with full functionality.
+
